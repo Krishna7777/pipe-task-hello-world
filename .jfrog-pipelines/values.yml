@@ -1,5 +1,5 @@
 repoPath: Krishna7777/pipe-task-hello-world
 mainBranch: main
 gitIntegration: int_github
-artIntegration: int_default_artifactory
+artIntegration: int_artifactory
 windowsNodePool:
